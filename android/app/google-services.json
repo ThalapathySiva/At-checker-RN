@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "168747752485",
+    "firebase_url": "https://at-checker.firebaseio.com",
+    "project_id": "at-checker",
+    "storage_bucket": "at-checker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": { 
+        "mobilesdk_app_id": "1:168747752485:android:0fd968d15713657f",
+        "android_client_info": {
+          "package_name": "com.at_checker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168747752485-3aokudkuv5qqm8meetd4kiq6014bfehf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "168747752485-3aokudkuv5qqm8meetd4kiq6014bfehf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT9NW6D4oNH-Q72XtXkIriwsL7b5YXK7s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

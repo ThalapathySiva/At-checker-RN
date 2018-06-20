@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

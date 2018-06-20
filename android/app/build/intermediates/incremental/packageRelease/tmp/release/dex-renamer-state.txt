@@ -1,0 +1,7 @@
+#Wed Jun 20 12:37:50 IST 2018
+base.0=/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/transforms/dexMerger/release/0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/transforms/dexMerger/release/0
