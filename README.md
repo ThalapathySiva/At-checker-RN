@@ -2,9 +2,9 @@
 <img src="https://lh3.googleusercontent.com/y80slOuy9Q_5TRnpPif350NLu3PT2r-BrWwahSQwVcHocUTpMTtPpbtDVNHO12Fv1uC_xJmXKE5B" width="100" height="100"/>
 
 ##  At-Checker
-It's a simple attendance calculator which supports authentication. It is built using React Native, Redux and Firebase.
+It's a simple attendance tracking app which supports authentication. It is built using React Native, Redux and Firebase.
 
-### screenshots
+### Screenshots
 
 ![](https://lh3.googleusercontent.com/bb0F9BpaK-ZY-GealXdJYp0ohVddNxp7NRKZCfTFRozjIM1V3n6DkPg4Xl231KgiGztIC6ITM29T)
 ![enter image description here](https://lh3.googleusercontent.com/P0V4qTCvTVNK8tusSbp1BQ4V_zRTVOCfT9CCR-nsxIvTwZ59nxdQcQIJweNNSoyAvNheuHFOajkU)
@@ -30,10 +30,10 @@ $ npm i -g react-native-cli
 
 >[Install watchman](https://facebook.github.io/watchman/docs/install.html)
 
-##### after cloning this repo:
+##### After cloning this repo:
 
 ```
-$ cd Todo-app
+$ cd At-checker-RN
 $ npm install
 $ react-native run-android
           (or)
