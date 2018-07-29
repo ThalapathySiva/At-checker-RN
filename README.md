@@ -1,7 +1,7 @@
-
 <img src="https://lh3.googleusercontent.com/y80slOuy9Q_5TRnpPif350NLu3PT2r-BrWwahSQwVcHocUTpMTtPpbtDVNHO12Fv1uC_xJmXKE5B" width="100" height="100"/>
 
-##  At-Checker
+## At-Checker
+
 It's a simple attendance tracking app which supports authentication. It is built using React Native, Redux and Firebase.
 
 ### Screenshots
@@ -11,6 +11,7 @@ It's a simple attendance tracking app which supports authentication. It is built
 ![](https://lh3.googleusercontent.com/8its_YEUaDty-eNlsnTqmjrP1FuEKWf_m8f5kzejHaxXNYHHpEb59SjkvW1P1pDcSh5qqHgHwLTb)
 
 ### Libraries used
+
 - redux
 - react-redux
 - react-native-firebase
@@ -18,17 +19,20 @@ It's a simple attendance tracking app which supports authentication. It is built
 - react-native-vector-icons
 
 ### Download
->[At-checker.apk](https://drive.google.com/file/d/1KjGq1m6yOI1DDv-G-k3b3oakCjKXkuYB/view?usp=sharing)
+
+> [At-checker.apk](https://drive.google.com/open?id=1VDlMhFqOJT6ckCLI-EM3gKGoqMfxa0_V)
+
 ### Requirements, install as needed:
 
 ##### React Native:
+
 ```
 $ npm i -g react-native-cli
 ```
 
 ##### watchman:
 
->[Install watchman](https://facebook.github.io/watchman/docs/install.html)
+> [Install watchman](https://facebook.github.io/watchman/docs/install.html)
 
 ##### After cloning this repo:
 
@@ -40,4 +44,4 @@ $ react-native run-android
 $ react-native run-ios
 ```
 
->Open the directory in the text editor of your choice.
+> Open the directory in the text editor of your choice.
