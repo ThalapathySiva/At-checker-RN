@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Jul 29 10:26:17 IST 2018
+#Sun Jul 29 11:16:08 IST 2018
 5.base=/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/transforms/mergeJniLibs/release/0
 22.path=lib/armeabi/libimagepipeline.so
 32.set=NATIVE_RESOURCE
