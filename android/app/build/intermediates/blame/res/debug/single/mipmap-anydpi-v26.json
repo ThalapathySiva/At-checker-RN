@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26/ic_launcher.xml",
-        "source": "/home/vineesh/workspace/RN/At_checker/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26/ic_launcher.xml",
+        "source": "/home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26/ic_launcher_round.xml",
-        "source": "/home/vineesh/workspace/RN/At_checker/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26/ic_launcher_round.xml",
+        "source": "/home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     }
 ]

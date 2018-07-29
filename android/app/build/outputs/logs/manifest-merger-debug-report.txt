@@ -1,14 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:1:1-26:12
+ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from [com.android.support:multidex:1.0.2] /home/vineesh/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/08018e2f2e19f7977a03da2d64f37691/AndroidManifest.xml:17:1-22:12
-MERGED from [:react-native-splash-screen] /home/vineesh/workspace/RN/At_checker/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-14:12
-MERGED from [:react-native-vector-icons] /home/vineesh/workspace/RN/At_checker/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-android-keyboard-adjust] /home/vineesh/workspace/RN/At_checker/node_modules/react-native-android-keyboard-adjust/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-firebase] /home/vineesh/workspace/RN/At_checker/node_modules/react-native-firebase/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-splash-screen] /home/vineesh/workspace/RN/at-checker-rn/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-vector-icons] /home/vineesh/workspace/RN/at-checker-rn/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-android-keyboard-adjust] /home/vineesh/workspace/RN/at-checker-rn/node_modules/react-native-android-keyboard-adjust/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-firebase] /home/vineesh/workspace/RN/at-checker-rn/node_modules/react-native-firebase/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.firebase:firebase-auth:15.1.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/firebase-auth-15.1.0.aar/b67eb6e1f94a52603022eae46018c024/AndroidManifest.xml:17:1-38:12
 MERGED from [com.google.firebase:firebase-config:15.0.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/firebase-config-15.0.0.aar/1b523ec45a53c62f99d2dc25d1cdac1c/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-perf:15.1.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/firebase-perf-15.1.0.aar/fc96911c8c59da4fd548621c3fd11c2e/AndroidManifest.xml:17:1-41:12
@@ -33,7 +33,7 @@ MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /home/vineesh/.
 MERGED from [com.google.firebase:firebase-iid:15.1.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/4d95915296d2c7c5ec5630060ab6fedb/AndroidManifest.xml:17:1-65:12
 MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/b760569992db43086c5eea9066fdb615/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/vineesh/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/cd6e6bb27c2b1b3295bd0f93ac5ce4d5/AndroidManifest.xml:17:1-29:12
-MERGED from [com.facebook.react:react-native:0.55.4] /home/vineesh/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/7f465fba3385fde59daf80dea016bdd0/AndroidManifest.xml:2:1-15:12
+MERGED from [com.facebook.react:react-native:0.55.4] /home/vineesh/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/687d133d553bf01b1891728fdb5d712b/AndroidManifest.xml:2:1-15:12
 MERGED from [com.android.support:appcompat-v7:23.0.1] /home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-ads:15.0.1] /home/vineesh/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/b92be71166f140bf90e084ac8e1a2829/AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.firebase:firebase-common:15.0.1] /home/vineesh/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/c5ed6319c0f243d97671f7e43315999f/AndroidManifest.xml:2:1-15:12
@@ -66,27 +66,27 @@ MERGED from [com.facebook.fresco:drawee:1.3.0] /home/vineesh/.gradle/caches/tran
 MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/8701e803537f61f2336c93d8af500977/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/b4f6421cda08869da97c8f1682e46343/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/ea83e07c5beb2f17117f0ba2abe7f386/AndroidManifest.xml:2:1-9:12
-INJECTED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:1:1-26:12
 	package
-		ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:2:5-29
-		INJECTED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:2:5-29
+		INJECTED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:4:5-67
-MERGED from [:react-native-firebase] /home/vineesh/workspace/RN/At_checker/node_modules/react-native-firebase/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
-MERGED from [:react-native-firebase] /home/vineesh/workspace/RN/At_checker/node_modules/react-native-firebase/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-firebase] /home/vineesh/workspace/RN/at-checker-rn/node_modules/react-native-firebase/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /home/vineesh/workspace/RN/at-checker-rn/node_modules/react-native-firebase/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-perf:15.1.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/firebase-perf-15.1.0.aar/fc96911c8c59da4fd548621c3fd11c2e/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-perf:15.1.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/firebase-perf-15.1.0.aar/fc96911c8c59da4fd548621c3fd11c2e/AndroidManifest.xml:22:5-67
 MERGED from [com.google.android.gms:play-services-appinvite:15.0.2] /home/vineesh/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-15.0.2.aar/4cfd9db3cf27ac9ae21dab64b7d0e1f4/AndroidManifest.xml:22:5-67
@@ -102,17 +102,17 @@ MERGED from [com.google.firebase:firebase-iid:15.1.0] /home/vineesh/.gradle/cach
 MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/vineesh/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/70799a885e18aa2e447274dcc41e7dc0/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/vineesh/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/70799a885e18aa2e447274dcc41e7dc0/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.55.4] /home/vineesh/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/7f465fba3385fde59daf80dea016bdd0/AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.55.4] /home/vineesh/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/7f465fba3385fde59daf80dea016bdd0/AndroidManifest.xml:11:5-78
+ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] /home/vineesh/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/687d133d553bf01b1891728fdb5d712b/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /home/vineesh/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/687d133d553bf01b1891728fdb5d712b/AndroidManifest.xml:11:5-78
 	android:name
-		ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:5:22-75
+		ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:5:22-75
 application
-ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:7:5-24:19
-MERGED from [:react-native-splash-screen] /home/vineesh/workspace/RN/At_checker/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
-MERGED from [:react-native-splash-screen] /home/vineesh/workspace/RN/At_checker/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
+ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [:react-native-splash-screen] /home/vineesh/workspace/RN/at-checker-rn/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /home/vineesh/workspace/RN/at-checker-rn/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
 MERGED from [com.google.firebase:firebase-auth:15.1.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/firebase-auth-15.1.0.aar/b67eb6e1f94a52603022eae46018c024/AndroidManifest.xml:22:5-36:19
 MERGED from [com.google.firebase:firebase-auth:15.1.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/firebase-auth-15.1.0.aar/b67eb6e1f94a52603022eae46018c024/AndroidManifest.xml:22:5-36:19
 MERGED from [com.google.firebase:firebase-config:15.0.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/firebase-config-15.0.0.aar/1b523ec45a53c62f99d2dc25d1cdac1c/AndroidManifest.xml:22:5-20
@@ -149,8 +149,8 @@ MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /home/vineesh/.gra
 MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/b760569992db43086c5eea9066fdb615/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/vineesh/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/cd6e6bb27c2b1b3295bd0f93ac5ce4d5/AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/vineesh/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/cd6e6bb27c2b1b3295bd0f93ac5ce4d5/AndroidManifest.xml:22:5-27:19
-MERGED from [com.facebook.react:react-native:0.55.4] /home/vineesh/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/7f465fba3385fde59daf80dea016bdd0/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.55.4] /home/vineesh/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/7f465fba3385fde59daf80dea016bdd0/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /home/vineesh/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/687d133d553bf01b1891728fdb5d712b/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /home/vineesh/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/687d133d553bf01b1891728fdb5d712b/AndroidManifest.xml:13:5-20
 MERGED from [com.android.support:appcompat-v7:23.0.1] /home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.0.1] /home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-common:15.0.1] /home/vineesh/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/c5ed6319c0f243d97671f7e43315999f/AndroidManifest.xml:7:5-13:19
@@ -194,53 +194,53 @@ MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /home
 MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/vineesh/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/566d1346637f488ab8f72b1d8ca9b682/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/vineesh/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/566d1346637f488ab8f72b1d8ca9b682/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:9:7-39
+		ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:9:7-39
 	android:icon
-		ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:10:7-41
+		ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:10:7-41
 	android:allowBackup
-		ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:11:7-34
 	android:theme
-		ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:12:7-38
 	android:name
-		ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:8:7-38
+		ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:8:7-38
 activity#com.at_checker.MainActivity
-ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:13:7-22:18
 	android:label
-		ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:15:9-41
 	android:windowSoftInputMode
-		ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:17:9-51
 	android:configChanges
-		ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:16:9-79
+		ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:16:9-79
 	android:name
-		ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:14:9-37
+		ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:14:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:18:9-21:25
+ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:18:9-21:25
 action#android.intent.action.MAIN
-ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:19:13-65
+ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:19:13-65
 	android:name
-		ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:19:21-62
+		ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:19:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:20:13-73
 	android:name
-		ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:20:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:23:7-84
 	android:name
-		ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:23:17-81
 uses-sdk
-INJECTED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:multidex:1.0.2] /home/vineesh/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/08018e2f2e19f7977a03da2d64f37691/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:multidex:1.0.2] /home/vineesh/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/08018e2f2e19f7977a03da2d64f37691/AndroidManifest.xml:20:5-43
-MERGED from [:react-native-splash-screen] /home/vineesh/workspace/RN/At_checker/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-splash-screen] /home/vineesh/workspace/RN/At_checker/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] /home/vineesh/workspace/RN/At_checker/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] /home/vineesh/workspace/RN/At_checker/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-android-keyboard-adjust] /home/vineesh/workspace/RN/At_checker/node_modules/react-native-android-keyboard-adjust/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-android-keyboard-adjust] /home/vineesh/workspace/RN/At_checker/node_modules/react-native-android-keyboard-adjust/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-firebase] /home/vineesh/workspace/RN/At_checker/node_modules/react-native-firebase/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-firebase] /home/vineesh/workspace/RN/At_checker/node_modules/react-native-firebase/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /home/vineesh/workspace/RN/at-checker-rn/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /home/vineesh/workspace/RN/at-checker-rn/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/vineesh/workspace/RN/at-checker-rn/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/vineesh/workspace/RN/at-checker-rn/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-android-keyboard-adjust] /home/vineesh/workspace/RN/at-checker-rn/node_modules/react-native-android-keyboard-adjust/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-android-keyboard-adjust] /home/vineesh/workspace/RN/at-checker-rn/node_modules/react-native-android-keyboard-adjust/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /home/vineesh/workspace/RN/at-checker-rn/node_modules/react-native-firebase/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /home/vineesh/workspace/RN/at-checker-rn/node_modules/react-native-firebase/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-auth:15.1.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/firebase-auth-15.1.0.aar/b67eb6e1f94a52603022eae46018c024/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth:15.1.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/firebase-auth-15.1.0.aar/b67eb6e1f94a52603022eae46018c024/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-config:15.0.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/firebase-config-15.0.0.aar/1b523ec45a53c62f99d2dc25d1cdac1c/AndroidManifest.xml:20:5-44
@@ -289,8 +289,8 @@ MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /home/vineesh/.gra
 MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/b760569992db43086c5eea9066fdb615/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/vineesh/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/cd6e6bb27c2b1b3295bd0f93ac5ce4d5/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/vineesh/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/cd6e6bb27c2b1b3295bd0f93ac5ce4d5/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.react:react-native:0.55.4] /home/vineesh/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/7f465fba3385fde59daf80dea016bdd0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.55.4] /home/vineesh/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/7f465fba3385fde59daf80dea016bdd0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /home/vineesh/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/687d133d553bf01b1891728fdb5d712b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /home/vineesh/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/687d133d553bf01b1891728fdb5d712b/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:23.0.1] /home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:23.0.1] /home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-ads:15.0.1] /home/vineesh/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/b92be71166f140bf90e084ac8e1a2829/AndroidManifest.xml:21:5-23:62
@@ -353,18 +353,18 @@ MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/vineesh/.gradle
 MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/b4f6421cda08869da97c8f1682e46343/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/ea83e07c5beb2f17117f0ba2abe7f386/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/ea83e07c5beb2f17117f0ba2abe7f386/AndroidManifest.xml:5:5-7:41
-INJECTED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.google.android.gms:play-services-ads:15.0.1] /home/vineesh/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/b92be71166f140bf90e084ac8e1a2829/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
 ADDED from [com.google.firebase:firebase-auth:15.1.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/firebase-auth-15.1.0.aar/b67eb6e1f94a52603022eae46018c024/AndroidManifest.xml:23:9-29:75
 	android:excludeFromRecents
@@ -654,8 +654,8 @@ ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/vineesh/.gradle/caches/t
 	android:name
 		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/vineesh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4278f5c26c6f34dd679a4b30511f78cc/AndroidManifest.xml:26:13-58
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /home/vineesh/workspace/RN/At_checker/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/vineesh/workspace/RN/at-checker-rn/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
