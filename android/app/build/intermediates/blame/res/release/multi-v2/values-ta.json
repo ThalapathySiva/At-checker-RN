@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/release/values-ta/values-ta.xml",
+            "outputFile": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ta/values-ta.xml",
             "map": [
                 {
                     "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/40244508c339fb532211f5abd6b76ad1/res/values-ta/values.xml",
@@ -91,7 +91,7 @@
             ]
         },
         {
-            "outputFile": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ta/values-ta.xml",
+            "outputFile": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/values-ta/values-ta.xml",
             "map": [
                 {
                     "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/40244508c339fb532211f5abd6b76ad1/res/values-ta/values.xml",
