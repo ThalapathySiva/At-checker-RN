@@ -20,7 +20,7 @@ export default (state = INITIAL_STATE, actions) => {
 			return { ...state, [actions.payload.prop]: actions.payload.value, error: '' };
 
 		case AUTH_ERROR:
-			return { ...state, password: '', error: 'Authentication Error' };
+			return { ...state, password: '', error: 'Authentication Error', loading: false };
 		case AUTH_SUCCESSFULL:
 			return { ...INITIAL_STATE, loading: false };
 		case FIELD_EMPTY:

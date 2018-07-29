@@ -1,15 +1,16 @@
 import React, { Component } from 'react';
-import { View, Text, StyleSheet } from 'react-native';
+import { View, Text, StyleSheet, ActivityIndicator } from 'react-native';
 import AndroidKeyboardAdjust from 'react-native-android-keyboard-adjust';
 
 import { connect } from 'react-redux';
 
-import { authDetailChange, signUpAction, fieldEmpty } from '../../actions';
+import { authDetailChange, signUpAction, fieldEmpty, loadingSwitch } from '../../actions';
 import { Input, Button } from './../common';
 
 class SignUpForm extends Component {
 	componentWillMount() {
 		AndroidKeyboardAdjust.setAdjustNothing();
+		this.props.loadingSwitch(false);
 	}
 
 	onButtonPress() {
@@ -23,7 +24,12 @@ class SignUpForm extends Component {
 	renderError() {
 		return <Text style={styles.errorText}>{this.props.error}</Text>;
 	}
-	renderButton() {}
+	renderButton() {
+		if (this.props.loading) {
+			return <ActivityIndicator size="large" />;
+		}
+		return <Button title="SIGN UP" onPress={() => this.onButtonPress()} />;
+	}
 
 	render() {
 		const { container, subView, buttonWrap } = styles;
@@ -84,9 +90,7 @@ class SignUpForm extends Component {
 						/>
 					</View>
 					<View style={styles.errorView}>{this.renderError()}</View>
-					<View style={buttonWrap}>
-						<Button title="SIGN UP" onPress={() => this.onButtonPress()} />
-					</View>
+					<View style={buttonWrap}>{this.renderButton()}</View>
 				</View>
 			</View>
 		);
@@ -115,10 +119,10 @@ const styles = StyleSheet.create({
 });
 
 const mapStateToProp = state => {
-	const { email, password, error } = state.auth;
-	return { email, password, error };
+	const { email, password, error, loading } = state.auth;
+	return { email, password, error, loading };
 };
 export default connect(
 	mapStateToProp,
-	{ authDetailChange, fieldEmpty, signUpAction }
+	{ authDetailChange, fieldEmpty, signUpAction, loadingSwitch }
 )(SignUpForm);

@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
-        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6fe455d84e984f0d933732517cf5ee2d/res/layout-v21/notification_action.xml"
-    },
-    {
-        "merged": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
         "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6fe455d84e984f0d933732517cf5ee2d/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6fe455d84e984f0d933732517cf5ee2d/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
         "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6fe455d84e984f0d933732517cf5ee2d/res/layout-v21/notification_template_custom_big.xml"
     },
     {
-        "merged": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
-        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6fe455d84e984f0d933732517cf5ee2d/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6fe455d84e984f0d933732517cf5ee2d/res/layout-v21/notification_action.xml"
     }
 ]

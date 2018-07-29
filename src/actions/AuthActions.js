@@ -1,6 +1,5 @@
 import firebase from 'react-native-firebase';
 import { Actions } from 'react-native-router-flux';
-import { AsyncStorage } from 'react-native';
 
 import {
 	AUTH_DETAIL_CHANGE,
@@ -26,8 +25,8 @@ export const signInAction = ({ email, password }) => dispatch => {
 	firebase
 		.auth()
 		.signInAndRetrieveDataWithEmailAndPassword(email, password)
-		.then(userData => {
-			AsyncStorage.setItem('userData', JSON.stringify(userData));
+		.then(() => {
+			// AsyncStorage.setItem('userData', JSON.stringify(userData));
 			dispatch({ type: AUTH_SUCCESSFULL });
 			Actions.main();
 		})

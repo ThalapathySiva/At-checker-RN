@@ -1,50 +1,50 @@
 [
     {
-        "merged": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
-        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/cd6e6bb27c2b1b3295bd0f93ac5ce4d5/res/color/common_google_signin_btn_tint.xml"
     },
     {
-        "merged": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
-        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/cd6e6bb27c2b1b3295bd0f93ac5ce4d5/res/color/common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/color/abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
-        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/color/abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
-        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/color/abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
-        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/color/abc_search_url_text.xml"
-    },
-    {
-        "merged": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
-        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/color/switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
         "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
         "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
         "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/cd6e6bb27c2b1b3295bd0f93ac5ce4d5/res/color/common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
         "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
-        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/cd6e6bb27c2b1b3295bd0f93ac5ce4d5/res/color/common_google_signin_btn_tint.xml"
+        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/cd6e6bb27c2b1b3295bd0f93ac5ce4d5/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/color/abc_primary_text_material_dark.xml"
     }
 ]

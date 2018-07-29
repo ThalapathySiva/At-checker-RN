@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/res/merged/release/values-mn/values-mn.xml",
+            "outputFile": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mn/values-mn.xml",
             "map": [
                 {
                     "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/caaa31e19a93036cd38e6229276e3a4a/res/values-mn/values.xml",
@@ -91,7 +91,7 @@
             ]
         },
         {
-            "outputFile": "/home/vineesh/workspace/RN/At_checker/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mn/values-mn.xml",
+            "outputFile": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/values-mn/values-mn.xml",
             "map": [
                 {
                     "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/caaa31e19a93036cd38e6229276e3a4a/res/values-mn/values.xml",

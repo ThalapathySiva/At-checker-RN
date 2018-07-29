@@ -18,6 +18,7 @@ export const subjectCreate = ({ subject_name, total_hours }) => {
 			.push({ subject_name, total_hours, absent_hours: 0 })
 			.then(() => {
 				Actions.subjectList({ type: 'reset' });
+				dispatch({type:RESET})
 			});
 	};
 };

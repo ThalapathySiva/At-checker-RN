@@ -47,7 +47,9 @@ class SubjectForm extends Component {
 									this.hours = input;
 								}}
 								onChangeText={value => {
-									this.props.subjectDetailChange({ prop: 'total_hours', value });
+									if (Number(value)) {
+										this.props.subjectDetailChange({ prop: 'total_hours', value });
+									}
 								}}
 							/>
 						</View>
