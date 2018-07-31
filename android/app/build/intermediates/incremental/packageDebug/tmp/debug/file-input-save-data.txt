@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Jul 29 09:17:39 IST 2018
+#Sun Jul 29 13:03:37 IST 2018
 5.base=/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 22.path=lib/armeabi-v7a/libfb.so
 32.set=NATIVE_RESOURCE

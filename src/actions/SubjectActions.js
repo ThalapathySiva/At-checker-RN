@@ -18,7 +18,7 @@ export const subjectCreate = ({ subject_name, total_hours }) => {
 			.push({ subject_name, total_hours, absent_hours: 0 })
 			.then(() => {
 				Actions.subjectList({ type: 'reset' });
-				dispatch({type:RESET})
+				dispatch({ type: RESET });
 			});
 	};
 };
@@ -38,7 +38,7 @@ export const subjectFetch = () => {
 
 export const subjectPrimaryUpdate = ({ subject_name, total_hours, uid }) => {
 	const { currentUser } = firebase.auth();
-	return dispatch => {
+	return () => {
 		firebase
 			.database()
 			.ref(`/users/${currentUser.uid}/subjects/${uid}`)
@@ -51,7 +51,7 @@ export const subjectPrimaryUpdate = ({ subject_name, total_hours, uid }) => {
 
 export const subjectAbsentUpdate = ({ absent_hours, uid }) => {
 	const { currentUser } = firebase.auth();
-	return dispatch => {
+	return () => {
 		firebase
 			.database()
 			.ref(`/users/${currentUser.uid}/subjects/${uid}`)

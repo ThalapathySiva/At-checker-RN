@@ -28,12 +28,12 @@
         "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/687d133d553bf01b1891728fdb5d712b/res/layout/redbox_item_frame.xml"
     },
     {
-        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/layout/redbox_item_title.xml",
-        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/687d133d553bf01b1891728fdb5d712b/res/layout/redbox_item_title.xml"
-    },
-    {
         "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
         "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/layout/redbox_item_title.xml",
+        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/687d133d553bf01b1891728fdb5d712b/res/layout/redbox_item_title.xml"
     },
     {
         "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",

@@ -28,12 +28,12 @@
         "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/layout/abc_expanded_menu_layout.xml"
-    },
-    {
         "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
         "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/vineesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/68aadea73d45d20b361eea3bad50bbb6/res/layout/abc_expanded_menu_layout.xml"
     },
     {
         "merged": "/home/vineesh/workspace/RN/at-checker-rn/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",

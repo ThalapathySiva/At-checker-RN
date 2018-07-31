@@ -20,7 +20,7 @@ It's a simple attendance tracking app which supports authentication. It is built
 
 ### Download
 
-> [At-checker.apk](https://drive.google.com/open?id=1yZ0R1dW1BWI2Ulw4-PoSByANu6borHCr)
+> [At-checker.apk](https://drive.google.com/open?id=1-VlwSTQLKegnlqnYshi-ssKxN32_Nq3D)
 
 ### Requirements, install as needed:
 
